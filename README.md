@@ -1,2 +1,2 @@
 # dummy-repo
-test repo for fut sjsd
+test repo for fut
