@@ -1,2 +1,2 @@
 # dummy-repo
-test repo for fut
+dummy repo for future commits
